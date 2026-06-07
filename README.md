@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Automated system pipeline script mimicking gulp/grunt builds. [Variant 243 using BASH with Nord theme]
+  name: task-runner-v243 version: 1.0 type: Repository author: VarshuAi description: >   Automated system pipeline script mimicking gulp/grunt builds. [Variant 243 using BASH with Nord theme] primary_tech: Shell
 primary_tech: Shell
 ```
 
